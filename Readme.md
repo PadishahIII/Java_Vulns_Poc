@@ -16,8 +16,7 @@
 [fastjson](https://github.com/PadishahIII/Java_Vulns_Poc/blob/master/RMI/rmi-client/src/test/java/rmi/fastjsonTest.java)
 服务端同JNDI
 
-### 本地利用
-https://github.com/PadishahIII/Spring_Demo/blob/master/src/test/java/com/example/fastjsonTest.java
+
 
 
 
