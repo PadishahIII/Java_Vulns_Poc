@@ -1,4 +1,4 @@
-# Java漏洞复现
+# (This repo is deprecated)Java漏洞复现
 
 ## Apache Common Collections RCE
 [Apache Common Collections RCE](https://github.com/PadishahIII/Java_Vulns_Poc/blob/master/demo/src/test/java/com/example/ApacheCommonCollection/TransformedMapTest.java)
